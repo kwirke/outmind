@@ -6,7 +6,6 @@ module.exports = {
     "plugins": [
         "fp"
     ],
-    "extends": "plugin:fp/recommended",
     "parserOptions": {
         "sourceType": "module"
     },
@@ -39,7 +38,6 @@ module.exports = {
         "fp/no-mutation": "error",
         "fp/no-nil": "error",
         "fp/no-proxy": "error",
-        "fp/no-rest-parameters": "error",
         "fp/no-this": "error",
         "fp/no-throw": "error",
         "fp/no-unused-expression": "error",

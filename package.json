@@ -28,5 +28,8 @@
     "eslint-plugin-fp": "^2.3.0",
     "parcel-bundler": "^1.5.1",
     "pre-commit": "^1.2.2"
+  },
+  "dependencies": {
+    "folktale": "^2.1.0"
   }
 }
